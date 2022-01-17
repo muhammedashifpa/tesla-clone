@@ -32,8 +32,8 @@ function Section(props) {
 
 export default Section
 const Wrap = styled.div`
+height:100vh;
     width:100%;
-    height:100vh;
     background-size:cover;
     background-position:center;
     background-repeate:no-repeat;
