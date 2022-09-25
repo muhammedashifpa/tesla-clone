@@ -86,11 +86,12 @@ const RightMenu = styled.div`
 
 display:flex;
 align-items:center;
-}
+
 a{
     font-weight:600;
     padding:0 10px;
     color:#181b21;
+}
 `
 const CustomeMenu = styled(MenuIcon)`
     cursor:pointer;
